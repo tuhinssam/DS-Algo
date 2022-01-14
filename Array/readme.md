@@ -1,6 +1,6 @@
 
-  Largest Element in an Array 
-  Second Largest Element in Array 
+  - Largest Element in an Array 
+  - Second Largest Element in Array 
   Check if an Array is Sorted 
   Reverse an Array 
   Remove duplicates from a sorted array 
